@@ -1,4 +1,4 @@
-**Predicting Income levels Using Supervised Machine Learning Algorithms: A Study on the United States Census 1994 Dataset**
+## **Predicting Income levels Using Supervised Machine Learning Algorithms: A Study on the United States Census 1994 Dataset**
 
 This project predicts individual income levels using socio-economic features from the U.S. Census 1994 dataset, classifying whether a person earns ≤ $50K or > $50K per year. The workflow includes preprocessing, EDA, training eight ML models, and comparing their performance.
 
