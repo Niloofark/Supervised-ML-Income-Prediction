@@ -13,9 +13,9 @@ All high- and low-performing models, along with detailed evaluation metrics, are
 5. XGBoost
 
 **LowPerformance_Models.ipynb**
-6. Decision Tree
-7. Neural Network (Deep Learning)
-8. Support Vector Machine (SVM)
+1. Decision Tree
+2. Neural Network (Deep Learning)
+3. Support Vector Machine (SVM)
 
 ## Installation Instructions
 
